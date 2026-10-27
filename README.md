@@ -2,7 +2,7 @@ Project Setup and Browser Working
 Setup Screenshots
 VS Code with the Project Open
 
-!VS Code project screenshot
+<img width="953" height="557" alt="image" src="https://github.com/user-attachments/assets/5ef94832-8ec7-4ff4-a0e5-aa7c2703d3af" />
 
 Node.js Version
 
