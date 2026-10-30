@@ -6,11 +6,13 @@ VS Code with the Project Open
 
 Node.js Version
 
-!Node.js version screenshot
+<img width="953" height="558" alt="image" src="https://github.com/user-attachments/assets/e98d7d6b-2418-4806-935f-068a1bd7fc4f" />
+
 
 Page Running with Live Server
 
-!Live Server screenshot
+<img width="948" height="564" alt="image" src="https://github.com/user-attachments/assets/fd6fd39a-1208-4ac7-b4fc-834eb1353269" />
+
 
 How a Browser Loads a Webpage
 
